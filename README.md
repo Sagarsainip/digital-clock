@@ -25,6 +25,6 @@ This project is a simple digital clock that displays the current time in real ti
    
 * **Clone the repository or download the source code**
 * **Navigate to the project directory:**
-* **Run the Python file:
+* **Run the Python file:**
 
 The digital clock window will open and start showing the current time.
