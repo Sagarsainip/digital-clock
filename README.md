@@ -17,9 +17,14 @@ This project is a simple digital clock that displays the current time in real ti
 - Time module
 
 ## How to Run
-```bash
-python digital_clock.py```
 
-## Author
+1. Make sure Python is installed on your system  
+   Check by running:
+   ```bash
+   python --version
+   
+* **Clone the repository or download the source code**
+* **Navigate to the project directory:**
+* **Run the Python file:
 
-Sagar Saini
+The digital clock window will open and start showing the current time.
