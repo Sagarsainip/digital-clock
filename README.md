@@ -8,7 +8,7 @@ This project is a simple digital clock that displays the current time in real ti
 - Beginner-friendly Python project
 
 ## Screenshot
-![Digital Clock Screenshot](.png)
+![Digital Clock Screenshot](Digital Clock.PNG)
 
 ## Technologies Used
 - Python
